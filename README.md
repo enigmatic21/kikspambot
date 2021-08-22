@@ -23,10 +23,6 @@ Commands to be entered in a public or a private group chat;
  
 - Custom spam (group chat); command :: .cs/message_here
 ```
-Commands to be entered in a private group/sends a single message to a user;
-```
-- Spam username; command :: .spamu/username/message 
-```
 
 # Note #
 
@@ -67,9 +63,6 @@ to spam the chat. For infinite spam, use 'spam' without quotes in a group chat.
 You can use the below mention command to spam a custom text infinitely;
 ```
 $ .cs/(whatever you want to spam)
-```
-```
-$ .spamu/username_or_jid/(whatever you want to spam)
 ```
 ## This may lead to your account getting banned from kik so use it at your own expense. ##
 
@@ -140,8 +133,5 @@ to spam the chat. For infinite spam, use 'spam' without quotes in a group chat.
 You can use the below mention command to spam a custom text infinitely;
 ```
 $ .cs/(whatever you want to spam)
-```
-```
-$ .spamu/username_or_jid/(whatever you want to spam)
 ```
 *------------------------*
